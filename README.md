@@ -11,12 +11,6 @@ Tasks:
 - Conduct diagnostic analytics following BI Taxonomy.
 4. Developing Dashboards
 - Dashboard 1: Overview
- -- KPIs for Total Sales, Orders, and Revenue.
- -- Sales by Category, Shopping Mall, and Payment Methods.
- -- Sales Trends Analysis.
 - Dashboard 2: Customer Insights
- -- Customer segmentation by Age, Gender, and Category.
- -- Purchase Frequency Analysis.
- -- Sales Quantity and Customer Distribution.
 5. Deriving Insights
 - Extract actionable insights from the dashboards to support marketing optimization and business decisions.
